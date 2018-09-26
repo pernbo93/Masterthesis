@@ -23,7 +23,7 @@
  truelat1  =  60,
  truelat2  =  60,
  stand_lon = 9,
- opt_geogrid_tbl_path = '/work/users/pernbo/New_ECMWF/'
+ opt_geogrid_tbl_path = '/work/users/pernbo/exp1/'
  geog_data_path = '/cluster/software/VERSIONS/wrf/3.8.1.1/geog'
 /
 
@@ -34,7 +34,7 @@
 
 &metgrid
  fg_name = 'FILE_ML', 'FILE_SFC', 'PRES',  
- constants_name='LSM:2018-01-30', 'Z:2018-01-30',
+ constants_name='LSM:2018-01-09', 'Z:2018-01-09',
  io_form_metgrid = 2, 
 /
 
