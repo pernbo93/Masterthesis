@@ -25,7 +25,7 @@ better for dispersion estimations of longer timescales.
 
 Link to the thesis: (Coming soon)
 
-The observations used and description can be fined at:
+The observations used with description can be fined at:
 https://zenodo.org/record/1247012#.W6u2gWgzbIU
 
 All data are raw data and to be usable the temperature needs to be corrected (to be retrieved to the raw value of the temperature):
